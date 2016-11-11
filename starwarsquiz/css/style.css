@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+.answers {
+  width: 400px
+}
+
+.moreQuestions {
+  display: none
+}
+
+h1 {
+  font-family: bungee;
+  color: white
+}
+
+div {
+  font-family: quicksand;
+  color: white
+}
+
+body {
+  background-image: url("https://i.ytimg.com/vi/JquobII5VjA/maxresdefault.jpg")
+}
